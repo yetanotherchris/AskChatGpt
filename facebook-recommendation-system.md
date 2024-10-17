@@ -1,6 +1,6 @@
 # Facebook's machine learning/AI recommendation engine in 2024
 
-**Can you explain this article in simple terms without too much maths, how does their recommender system differ and does it keep recommendations less bias? 
+**Can you explain this article in simple terms without too much maths, how does their recommender system differs and does it keep recommendations less bias? 
 https://engineering.fb.com/2015/06/02/core-infra/recommending-items-to-more-than-a-billion-people/**
 
 > The article describes how Facebook developed a large-scale recommender system using a method called "rotational hybrid approach."
